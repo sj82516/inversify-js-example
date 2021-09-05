@@ -1,0 +1,17 @@
+{
+  "name": "inversify-js-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@types/node": "^16.7.10",
+    "inversify": "^5.1.1",
+    "reflect-metadata": "^0.1.13"
+  }
+}
